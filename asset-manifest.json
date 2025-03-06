@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/innomaticspt3/static/css/main.3d4976e5.css",
-    "main.js": "/innomaticspt3/static/js/main.c8166d5d.js",
+    "main.js": "/innomaticspt3/static/js/main.93662ee7.js",
     "static/js/453.acca0757.chunk.js": "/innomaticspt3/static/js/453.acca0757.chunk.js",
     "index.html": "/innomaticspt3/index.html",
     "main.3d4976e5.css.map": "/innomaticspt3/static/css/main.3d4976e5.css.map",
-    "main.c8166d5d.js.map": "/innomaticspt3/static/js/main.c8166d5d.js.map",
+    "main.93662ee7.js.map": "/innomaticspt3/static/js/main.93662ee7.js.map",
     "453.acca0757.chunk.js.map": "/innomaticspt3/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d4976e5.css",
-    "static/js/main.c8166d5d.js"
+    "static/js/main.93662ee7.js"
   ]
 }
