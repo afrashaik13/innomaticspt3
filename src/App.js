@@ -1,5 +1,6 @@
 import React from "react";
 import { HashRouter as Router } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs, FaDatabase, FaWhatsapp, FaLinkedinIn, FaGithub } from "react-icons/fa";
 import { useState } from "react";
 import "./App.css";
